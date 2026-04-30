@@ -1,6 +1,6 @@
 ## GUIDE FOR PLAYERS
 
-Simply download the mod from [here](https://github.com/ombrellus/mewgenics-item-frame-label/releases) or the nexus page (add when i make it), load the mod through mewtator, with mewjector installed and enabled, and put it on top of the other mods to prevent issues.
+Simply download the mod from [here](https://github.com/ombrellus/mewgenics-item-frame-label/releases) or the nexus page (add when i make it), load the mod through [mewtator](https://www.nexusmods.com/mewgenics/mods/1), with [mewjector](https://www.nexusmods.com/mewgenics/mods/218) installed and enabled, and put it on top of the other mods to prevent ordering issues.
 
 ## GUIDE FOR MODDERS
 
