@@ -150,7 +150,7 @@ void* hkCatPartsHelper1(void* catParts) {
                 continue;
             } 
             
-            // CACHE MISS: Do the heavy lifting
+            // CACHE MISS: Do the heavy lifting (idk if it's even heavy but ir's probably better this way)
             if (game_GlobalItemDB && *game_GlobalItemDB) {
                 // mj.Log(modName, "Database exists");
                 void* itemsDatabaseNode = (char*)(*game_GlobalItemDB) + 0x5B8;
@@ -256,7 +256,7 @@ uint64_t hkWeaponVisual(void* catData) {
 #define HELPER_OFFSET 0x3D
 
 #define ITEM_LOOP_KEY "48 BF A3 8B 2E BA E8 A2 8B 2E 48 8B 0D ? ? ? ? 48 81 C1 78 08 00 00"
-#define TEST_WEAPON_ADRESS 0x1400c34b0
+// new game version coming so testing address is useless (TODO find pattern)
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved) {
     if (ul_reason_for_call == DLL_PROCESS_ATTACH) {
