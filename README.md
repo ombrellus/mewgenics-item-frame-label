@@ -16,4 +16,4 @@ For the item's appearence on the actual cat character, you need to append new fr
 > [WARN!]
 > Currently the mod only checks for labels inside the front version of the equipment, so for head, neck and face slots the frames have to match
 
-An example can be found here
+An example can be found [here](example/)

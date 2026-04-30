@@ -1,0 +1,48 @@
+CoolestGlassesYay {
+        name "Coolest Glasses"
+        desc "ARMOR_COOLMASK_DESC"
+        rarity common
+        kind face
+        frame 1
+        alt_clip NiceItem
+        set Cool
+
+        cha 2
+
+        passives {
+            Fragile 1
+        }
+    }
+
+WeirdGreen {
+        name "Coolest Glasses"
+        desc "ARMOR_COOLMASK_DESC"
+        rarity rare
+        kind face
+        frame 2
+        alt_clip NiceItem
+        set Cool
+
+        cha 4
+
+        passives {
+            Fragile 1
+        }
+    }
+
+Oval {
+        name "Coolest Glasses"
+        desc "ARMOR_COOLMASK_DESC"
+        rarity uncommon
+        kind face
+        frame 3
+        alt_clip NiceItem
+        set Cool
+
+        cha 10
+
+        passives {
+            Fragile 1
+        }
+    }
+
